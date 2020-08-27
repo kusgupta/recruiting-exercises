@@ -1,4 +1,11 @@
 
+## Kushan's Instructions
+
+Run unit tests with "python tests.py" from the inventory-allocator directory.
+
+A choice I made was to not create an object structure since this function was taking in python primitives, 
+and returning python primitives due to the overhead of object structure. I think this could be changed relatively easily
+if desired.
 
 ## Problem
 
